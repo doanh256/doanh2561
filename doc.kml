@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+<Style>
+<ListStyle id="hideChildren">
+<listItemType>checkHideChildren</listItemType>
+</ListStyle>
+</Style>
+<name>New folder (9)</name>
+<NetworkLink>
+<name>0/0/0</name>
+<Region>
+<Lod>
+<minLodPixels>-1</minLodPixels>
+<maxLodPixels>-1</maxLodPixels>
+</Lod>
+<LatLonAltBox><west>105.84311147803473</west>
+<north>21.08909700792861</north>
+<east>106.44725528418600</east>
+<south>20.48495320177734</south>
+</LatLonAltBox>
+</Region>
+<Link>
+<href>https://drive.google.com/file/d/1ilodu8phh1asCl0kUxm8zTA5B5mUYHO0/view?usp=sharing</href>
+<viewRefreshMode>onRegion</viewRefreshMode>
+</Link>
+</NetworkLink>
+<LookAt>
+<longitude>106.06760046069152</longitude>
+<latitude>20.79215059246619</latitude>
+<altitude>0</altitude>
+<range>85260.54811221249111</range>
+<tilt>0</tilt>
+<heading>0</heading>
+</LookAt>
+</Document>
+</kml>
